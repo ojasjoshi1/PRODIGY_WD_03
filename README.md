@@ -33,11 +33,16 @@ A fun and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **Java
 ---
 
 ## 📁 File Structuretic-tac-toe/
+
 │
 ├── index.html # Main game UI
+
 ├── style.css # Game styling
+
 ├── script.js # Game logic and AI
+
 └── README.md # Project documentation
+
 ---
 👨‍💻 Author
 Made by Ojas Onkar Joshi
